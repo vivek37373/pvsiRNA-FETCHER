@@ -1,5 +1,5 @@
 # pvsiRNA-FETCHER
-tool to identify plant derived small RNAs 
+tool to identify plant virus derived small RNAs 
 
 
  -rendered changes to preprocessing.py
